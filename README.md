@@ -10,7 +10,8 @@ An EdTech platform built with Django where I contributed to backend features, fr
 - Integrated a Gemini AI chatbot (via Hugging Face) for interactive and formatted responses.  
 - Redesigned UI components for a modern and mobile-friendly experience.  
 
-- **Links:** [Code](https://github.com/yourusername/pharmadaily) | [Screenshots](link-to-images)  
+- **Links:** [Code](https://github.com/jainmanal/codersdaily_website)
+<img width="1885" height="1016" alt="codersdaily-home" src="https://github.com/user-attachments/assets/474bb073-34f0-45ee-b934-f52ffe65e3df" />
 
 ## 📌 PharmaDaily (Healthcare Platform)  
 A healthcare application built with Django and PostgreSQL, focusing on lead management and performance optimization.  
@@ -20,4 +21,5 @@ A healthcare application built with Django and PostgreSQL, focusing on lead mana
 - Optimized performance with caching, lazy loading, and dynamic page rendering.  
 - Supported deployment on live servers via remote desktop connection.  
 
-- **Links:** [Code](https://github.com/yourusername/pharmadaily) | [Screenshots](link-to-images)
+- **Links:** [Code](https://github.com/jainmanal/pharmadaily)
+<img width="1882" height="1012" alt="Screenshot 2025-09-14 010944" src="https://github.com/user-attachments/assets/21a910c6-235f-487a-a700-22815898e1d7" />
